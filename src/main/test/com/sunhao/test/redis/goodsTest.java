@@ -1,4 +1,4 @@
-package com.sunhao.test;
+package com.sunhao.test.redis;
 
 import com.sunhao.entity.Goods;
 import org.junit.Test;
@@ -16,7 +16,7 @@ import java.util.ArrayList;
 /**
  * 项目名称：redistest
  * 类 名 称：goodsTest
- * 类 描 述：TODO
+ * 类 描 述：获取本地文件 分割。然后保存在redis中
  * 创建时间：2019/12/6 2:26 下午
  * 创 建 人：sunhao
  */

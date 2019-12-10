@@ -16,7 +16,7 @@ import java.util.ArrayList;
 /**
  * 项目名称：redistest
  * 类 名 称：goodtest
- * 类 描 述：TODO
+ * 类 描 述：获取本地的文件
  * 创建时间：2019/12/6 6:22 下午
  * 创 建 人：sunhao
  */

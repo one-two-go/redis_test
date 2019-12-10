@@ -1,4 +1,4 @@
-package com.sunhao.controller;
+package com.sunhao.controller.redis;
 
 import com.sunhao.entity.Goods;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +15,7 @@ import java.util.Set;
 /**
  * 项目名称：redistest
  * 类 名 称：goodsControlle
- * 类 描 述：TODO
+ * 类 描 述：获取redis中的数据 进行crud操作（全部包含）
  * 创建时间：2019/12/6 4:39 下午
  * 创 建 人：sunhao
  */

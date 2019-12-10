@@ -1,4 +1,4 @@
-package com.sunhao.test;
+package com.sunhao.test.redis;
 
 import com.sunhao.entity.User;
 import com.sunhao.utils.StringUtils;
@@ -16,7 +16,7 @@ import java.util.Map;
 /**
  * 项目名称：redistest
  * 类 名 称：UserTest
- * 类 描 述：TODO
+ * 类 描 述：随机生成五万条数据，然后存在以json序列化和jdk hash 序列化存储在redis中
  * 创建时间：2019/12/7 9:33 上午
  * 创 建 人：sunhao
  */
