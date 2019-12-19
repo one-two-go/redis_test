@@ -52,6 +52,15 @@ public class StringUtils {
 				+ "(/[0-9a-z_!~*'().;?:@&=+$,%#-]+)+/?)$";
 		return  str.matches(regex);
 	}
+//	获取1000以内随机数
+		public static void RandomNum(String[] args) {
+
+			System.out.println("Method one:" + Math.random() * 1000);
+
+			Random random = new Random();
+			System.out.println("Method two:" + random.nextInt(1000));
+		}
+
 	
 	
 	
